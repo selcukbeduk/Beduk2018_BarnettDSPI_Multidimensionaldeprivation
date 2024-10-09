@@ -1,7 +1,7 @@
 # Beduk2018_BarnettDSPI_Multidimensionaldeprivation
 Code repository for replicating
 
-Bedük, S. (2018). Identifying people in poverty: a multidimensional deprivation measure for the EU. Barnett Papers in Social Research & SoCArXiv. https://doi.org/10.31235/osf.io/7prxq
+Bedük, S. (2018). Identifying people in poverty: a multidimensional deprivation measure for the EU. _Barnett Papers in Social Research & SoCArXiv_. https://doi.org/10.31235/osf.io/7prxq
 
 The analysis uses data from EU-SILC 2009 including register, household and individual files and deprivation module variables.
 
